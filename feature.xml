@@ -2,19 +2,19 @@
 <feature
       id="de.iritgo.eclipse.tools"
       label="Iritgo Eclipse Tools"
-      version="1.0.1"
+      version="1.0.2"
       provider-name="Iritgo Technologies">
 
    <description url="http://www.example.com/description">
-      (C) 2008 Iritgo Technologies
+      (C) 2009 Iritgo Technologies
    </description>
 
    <copyright url="http://www.example.com/copyright">
-      (C) 2008 Iritgo Technologies
+      (C) 2009 Iritgo Technologies
    </copyright>
 
    <license url="http://www.example.com/license">
-      (C) 2006 BueroByte
+      (C) 2009 BueroByte
    </license>
 
    <requires>
