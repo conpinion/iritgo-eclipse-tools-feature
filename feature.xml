@@ -2,7 +2,7 @@
 <feature
       id="de.iritgo.eclipse.tools"
       label="Iritgo Eclipse Tools"
-      version="1.0.2"
+      version="1.0.4"
       provider-name="Iritgo Technologies">
 
    <description url="http://www.example.com/description">
@@ -43,7 +43,7 @@
          id="de.iritgo.eclipse.tools.grails"
          download-size="0"
          install-size="0"
-         version="1.0.0"
+         version="1.0.2"
          unpack="false"/>
 
 </feature>
