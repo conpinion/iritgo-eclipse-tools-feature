@@ -18,32 +18,32 @@
    </license>
 
    <requires>
-      <import plugin="org.eclipse.ui"/>
-      <import plugin="org.eclipse.core.runtime"/>
+      <import plugin="org.eclipse.ui" version="3.5.0" match="greaterOrEqual"/>
+      <import plugin="org.eclipse.core.runtime" version="3.5.0" match="greaterOrEqual"/>
       <import plugin="org.eclipse.core.resources"/>
+      <import plugin="org.eclipse.jdt.core"/>
       <import plugin="com.evelopers.unimod"/>
-      <import plugin="de.iritgo.eclipse.tools"/>
    </requires>
 
    <plugin
          id="de.iritgo.eclipse.tools"
          download-size="0"
          install-size="0"
-         version="1.0.0"
-         unpack="false"/>
-
-   <plugin
-         id="de.iritgo.eclipse.tools.unimod"
-         download-size="0"
-         install-size="0"
-         version="1.0.0"
+         version="0.0.0"
          unpack="false"/>
 
    <plugin
          id="de.iritgo.eclipse.tools.grails"
          download-size="0"
          install-size="0"
-         version="1.0.2"
+         version="0.0.0"
+         unpack="false"/>
+
+   <plugin
+         id="de.iritgo.eclipse.tools.unimod"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
          unpack="false"/>
 
 </feature>
